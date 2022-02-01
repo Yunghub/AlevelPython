@@ -5,7 +5,7 @@ Library of random Python codes that I coded in OCR Computer Science Alevel.
 ## Contents - More will be added
 - Simple Python
 - Datastructures
-- Bigger Programmes
+- Full Programmes
 - Logic.ly Projects
 
 More contents will be added soon, throughout the year.
