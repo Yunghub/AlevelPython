@@ -1,0 +1,1 @@
+Plate: FAJSDF, Speed: 60.0MPH, Time In: 2020/01/01 00:00:30, Time Out: 2020/01/01 00:01:30
