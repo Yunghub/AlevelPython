@@ -1,9 +1,9 @@
-def merge_sort(lst):
-    if len(lst) <= 1:
-        return lst
-    mid = len(lst) // 2
-    left = merge_sort(lst[:mid])
-    right = merge_sort(lst[mid:])
+def merge_sort(list):
+    if len(list) <= 1:
+        return list
+    mid = len(list) // 2
+    left = merge_sort(list[:mid])
+    right = merge_sort(list[mid:])
     return merge(left, right)
 
 def merge(left, right):
